@@ -1,0 +1,14 @@
+{
+    "name": "peterhebert/mce-table-buttons",
+    "description": "Add controls for table editing to the TInyMCE (classic) editor",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Peter Hebert",
+            "email": "peter@peterhebert.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
